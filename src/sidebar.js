@@ -295,6 +295,7 @@ module.exports = {
                 'hydra/configure-deploy',
                 'hydra/dependencies-environment',
                 'hydra/production',
+                'hydra/guides/deploy-to-digitalocean',
                 'hydra/guides/tracing',
                 'hydra/guides/hsm-support',
                 'hydra/guides/secrets-key-rotation',
@@ -306,7 +307,6 @@ module.exports = {
                 'hydra/guides/gitlab',
                 'hydra/guides/migrating-from-mitreid',
                 'hydra/guides/merge-multiple-db-secrets',
-                'hydra/guides/deploying-to-digitalocean',
                 'hydra/guides/upgrade'
               ]
             },
